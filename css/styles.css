@@ -4,3 +4,9 @@
     background: cover;
     height: 700px;
 }
+#h1-h{
+    border: 3px solid aquamarine;
+    background-color: white;
+    text-align: center;
+    padding: 15px;
+    opacity: 0.5;
