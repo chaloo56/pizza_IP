@@ -9,4 +9,14 @@
     background-color: white;
     text-align: center;
     padding: 15px;
-    opacity: 0.5;
+    opacity: 0.6;
+}
+.c-deck{
+    padding: 10px;
+}
+.title-1{
+    text-align: center;
+    background-color: aquamarine;
+    opacity: 0.6;
+    width: 100%
+}
